@@ -1,2 +1,2 @@
 # Video-Juegos
-Una pagina web que trata de video juegos desde su historia, hasta el día de hoy
+Una pagina web que trata de video juegos: https://yawatanokami.github.io/Video-Juegos/.
